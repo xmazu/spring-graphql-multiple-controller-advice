@@ -1,0 +1,8 @@
+type Mutation {
+    throwUnsupported: Boolean
+    throwCast: Boolean
+}
+
+type Query {
+    hi: String
+}
